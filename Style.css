@@ -1,0 +1,11 @@
+h2{
+    background-color: #00a8f3;padding: 0.8px;
+    color: aliceblue;
+}
+body{
+    border-style: outset; border-color: lightgreen;
+    background: #82e0eb;
+}
+.a{
+    text-shadow: 2px 2px lightgreen;
+}
